@@ -1,0 +1,47 @@
+.mego
+    {
+        width: 100%;
+        height: 550px;
+        background-image: url("v1.png");
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        margin-bottom: 0;
+       
+}
+main{
+    width: 100%;
+    height: 450px;
+}
+aside{
+    height:550px;
+
+}
+aside img{
+    width: 100%;
+    height: 500px;
+}
+
+header
+{
+    background: linear-gradient(to right, rgb(167, 7, 7) 20%, rgb(255, 255, 255));}
+
+.hr{
+    width: 40%;
+      border-radius: 80%;
+      height: 4px;
+      background-color:red;
+      margin: auto;
+      margin-bottom: 4px;
+}
+hr{
+    color: black;
+}
+.about-content p{
+    color: rgb(226, 189, 205);
+}
+
+    
+    
+
+
+
